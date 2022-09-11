@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "0x556045F254CA82b77406244a6F459f6B5a293a23",
-  "SCAN_LINK": "https://coston-explorer.flare.network/address/0x556045F254CA82b77406244a6F459f6B5a293a23/transactions#address-tabs",
+  "CONTRACT_ADDRESS": "0x1128C49712E6EEF0afa470B7E5a8A86B004506ee",
+  "SCAN_LINK": "https://songbird-explorer.flare.network/address/0x1128C49712E6EEF0afa470B7E5a8A86B004506ee/transactions#address-tabs",
   "NETWORK": {
-    "NAME": "Coston",
-    "SYMBOL": "CFLR",
-    "ID": 16
+    "NAME": "Songbird",
+    "SYMBOL": "SGB",
+    "ID": 19
   },
-  "NFT_NAME": "Coston Punks",
-  "SYMBOL": "NCC",
+  "NFT_NAME": "Sgb Pnks",
+  "SYMBOL": "SPNK",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 200000000000000,
   "DISPLAY_COST": 0.0002,

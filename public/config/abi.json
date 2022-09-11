@@ -261,7 +261,7 @@
     "name": "_saleFlag",
     "outputs": [
       {
-        "internalType": "enum CostonPunks.MintingStatus",
+        "internalType": "enum SgbPnks.MintingStatus",
         "name": "",
         "type": "uint8"
       }
