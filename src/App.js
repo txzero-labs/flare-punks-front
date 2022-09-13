@@ -145,7 +145,7 @@ function App() {
       .then((receipt) => {
         console.log(receipt);
         setFeedback(
-          `WOW, the ${CONFIG.NFT_NAME} is yours! go visit Opensea.io to view it.`
+          `WOW, the ${CONFIG.NFT_NAME} is yours! go visit sparklesnft.com to view it.`
         );
         setClaimingNft(false);
         dispatch(fetchData(blockchain.account));
@@ -383,7 +383,7 @@ function App() {
           <s.TextDescription
             style={{
               textAlign: "center",
-              color: "var(--primary-text)",
+              color: "var(--accent-text)",
             }}
           >
             Please make sure you are connected to the right network (
