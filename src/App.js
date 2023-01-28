@@ -342,7 +342,7 @@ function App() {
                     <StyledSlider
                       type="range"
                       min={1}
-                      max={25}
+                      max={50}
                       onChange={(event) => setMintAmount(event.target.value)}
                       value={mintAmount}
                     />
