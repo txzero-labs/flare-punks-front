@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "0x0C77dA2B3Ccd96d7Ac33b0F4988dE8b0603B3e8A",
-  "SCAN_LINK": "https://songbird-explorer.flare.network/address/0x0C77dA2B3Ccd96d7Ac33b0F4988dE8b0603B3e8A/transactions#address-tabs",
+  "CONTRACT_ADDRESS": "0x93357CEcFb94e290dcA726CFd30522dd7E0D6120",
+  "SCAN_LINK": "https://songbird-explorer.flare.network/address/0x93357CEcFb94e290dcA726CFd30522dd7E0D6120/transactions#address-tabs",
   "NETWORK": {
     "NAME": "Songbird",
     "SYMBOL": "SGB",
     "ID": 19
   },
-  "NFT_NAME": "Flare Punks",
-  "SYMBOL": "FPNK",
+  "NFT_NAME": "Grumpy Punks",
+  "SYMBOL": "GM",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 200000000000000,
   "DISPLAY_COST": 0.0002,
