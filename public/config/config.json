@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0x937fd6570D43dd841a6Dce25fCCA47534D3176c9",
-  "SCAN_LINK": "https://songbird-explorer.flare.network/address/0x937fd6570D43dd841a6Dce25fCCA47534D3176c9/transactions#address-tabs",
+  "CONTRACT_ADDRESS": "0xa8DD9185fE95F65e29d199996Bf91dDB35c8cd4C",
+  "SCAN_LINK": "https://flare-explorer.flare.network/address/0xa8DD9185fE95F65e29d199996Bf91dDB35c8cd4C/transactions#address-tabs",
   "NETWORK": {
-    "NAME": "Songbird",
-    "SYMBOL": "SGB",
-    "ID": 19
+    "NAME": "Flare Mainnet",
+    "SYMBOL": "FLR",
+    "ID": 14
   },
   "NFT_NAME": "Grumpy Punks",
   "SYMBOL": "GM",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 200000000000000,
-  "DISPLAY_COST": 0.0002,
+  "WEI_COST": 600000000000000000000,
+  "DISPLAY_COST": 600,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Sparkles",
   "MARKETPLACE_LINK": "https://sparklesnft.com/collection/sgb-pnks/",
